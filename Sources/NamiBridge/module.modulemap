@@ -1,0 +1,5 @@
+module NamiBridge {
+    header "PrivateAPIs.h"
+    link "ApplicationServices"
+    export *
+}
